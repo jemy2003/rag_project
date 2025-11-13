@@ -1,0 +1,8 @@
+# Environnements et bases locales
+.env
+pgdata/
+__pycache__/
+*.pyc
+
+# Logs et fichiers temporaires
+*.log

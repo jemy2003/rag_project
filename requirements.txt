@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-multipart
+elasticsearch>=8.0.0
+sentence-transformers
+torch>=1.13.0
+PyPDF2
+requests
+python-dotenv
