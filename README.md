@@ -31,10 +31,17 @@ Simple, rapide, efficace.
 
 rag_project/
 ├── api.py # API FastAPI principale
+
 ├── Dockerfile # Image Docker de l’API
+
 ├── docker-compose.yml # Lance Elasticsearch + API
+
 ├── wait_for_es.sh # Script pour attendre Elasticsearch avant démarrage
+
 ├── requirements.txt # Dépendances Python
+
 ├── .env # Variables d’environnement
+
 └── uploads/
+
     └── Introduction to Data Engineering.pdf
