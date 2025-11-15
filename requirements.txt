@@ -1,7 +1,7 @@
 fastapi
 uvicorn[standard]
 python-multipart
-elasticsearch>=8.0.0
+elasticsearch==8.12.1
 sentence-transformers
 torch>=1.13.0
 PyPDF2
