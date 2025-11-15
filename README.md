@@ -30,6 +30,7 @@ Simple, rapide, efficace.
 ## 🧱 Architecture du projet
 
 rag_project/
+
 ├── api.py # API FastAPI principale
 
 ├── Dockerfile # Image Docker de l’API
